@@ -1,0 +1,15 @@
+.list {
+    border-radius: 20px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 101, .1);
+    cursor: pointer;
+}
+.name{
+    font-weight: 700;
+    letter-spacing: 0.02em;
+}
+.online {
+    color:   green;
+}
+.offline {
+    color:  red;
+}
